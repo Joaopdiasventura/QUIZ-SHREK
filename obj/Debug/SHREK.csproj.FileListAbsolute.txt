@@ -1,0 +1,16 @@
+C:\Users\Joao Paulo\Desktop\SHREK\bin\Debug\SHREK.exe.config
+C:\Users\Joao Paulo\Desktop\SHREK\bin\Debug\SHREK.exe
+C:\Users\Joao Paulo\Desktop\SHREK\bin\Debug\SHREK.pdb
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.csproj.AssemblyReference.cache
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.Form1.resources
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.Form2.resources
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.Form3.resources
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.Form4.resources
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.Form5.resources
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.Form6.resources
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.Form7.resources
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.Properties.Resources.resources
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.csproj.GenerateResource.cache
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.csproj.CoreCompileInputs.cache
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.exe
+C:\Users\Joao Paulo\Desktop\SHREK\obj\Debug\SHREK.pdb
